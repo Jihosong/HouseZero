@@ -20,7 +20,7 @@ namespace HoloToolkit.Examples.InteractiveElements
             scaleObj = GameObject.Find("Slider_ScalePlaceable");
             scaleSlider = scaleObj.GetComponent<SliderGestureControl>();
             house = this.gameObject;
-            scaleSlider.SliderValue = 0.00615f;
+            scaleSlider.SliderValue = 1f;
         }
 
         void Update()
@@ -28,12 +28,5 @@ namespace HoloToolkit.Examples.InteractiveElements
             scale = scaleSlider.SliderValue;
             house.transform.localScale = new Vector3(scale, scale, scale);
         }
-
-        /*
-        public void AdjustSpeed(float newSpeed)
-        {
-            speed = newSpeed;
-        }
-        */
     }
 }

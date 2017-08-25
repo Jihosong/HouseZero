@@ -51,10 +51,10 @@ namespace HoloToolkit.Examples.InteractiveElements
                 mColorTheme = GetColorTheme(ColorThemeTag);
             }
 
-            if (PositionThemeTag != "")
-            {
-                mPositionTheme = GetVector3Theme(PositionThemeTag);
-            }
+            //if (PositionThemeTag != "")
+            //{
+            //    mPositionTheme = GetVector3Theme(PositionThemeTag);
+            //}
         }
 
         /// <summary>
@@ -92,18 +92,18 @@ namespace HoloToolkit.Examples.InteractiveElements
                 }
             }
 
-            if (mPositionTheme != null)
-            {
-                if (MovePosition != null)
-                {
-                    MovePosition.TargetValue = mPositionTheme.GetThemeValue(state);
-                    MovePosition.StartRunning();
-                }
-                else
-                {
-                    transform.localPosition = mPositionTheme.GetThemeValue(state);
-                }
-            }
+            //if (mPositionTheme != null)
+            //{
+            //    if (MovePosition != null)
+            //    {
+            //        MovePosition.TargetValue = mPositionTheme.GetThemeValue(state);
+            //        MovePosition.StartRunning();
+            //    }
+            //    else
+            //    {
+            //        transform.localPosition = mPositionTheme.GetThemeValue(state);
+            //    }
+            //}
         }
     }
 }

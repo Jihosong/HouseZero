@@ -8,6 +8,7 @@ public class GazeGestureManager : MonoBehaviour {
 
     public static GazeGestureManager Instance { get; private set; }
     public GameObject FocusedObject { get; private set; }
+    public GameObject OverrideFocusedObject { get; internal set; }
 
     public delegate void FocusedAction();
     public static event FocusedAction OnFocused;

@@ -13,7 +13,7 @@ public class RotatePlaceable : MonoBehaviour
     // Update is called once per frame
     void Start()
     {
-        house = GameObject.Find("Slider_RotatePlaceable");
+        house = GameObject.Find("FakeSliderRotate");
         rotateSlider = house.GetComponent<SliderGestureControl>();
     }
 
@@ -21,7 +21,7 @@ public class RotatePlaceable : MonoBehaviour
     {
         if (toggleRotate)
         {
-            transform.Rotate(new Vector3(0, 1, 0));
+            transform.Rotate(0, 0.3f, 0);
         }
         else
         {
