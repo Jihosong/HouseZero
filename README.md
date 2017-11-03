@@ -42,6 +42,6 @@ Individual CFD visualization styles can be adjusted in the cooresponding script 
 ### MQTT
 The MQTT connection allows for real-time broadcasting of external sensor data into the visualization. This implementation utilizes Adafruit's free [IO](https://io.adafruit.com) service, with data being streamed to the service from an Arduino sensor assembly.
 
-Connection to MQTT is accomplished in the `MQTT_client` GameObject and cooresponding script component.
+Connection to MQTT is accomplished in the `MQTT_client` GameObject and cooresponding script component. This script containes listeners for incoming data. Each sensor (placed within the `DHT` GameObject container) uses a `Sensor` prefab, with an `MQTT_sensor` script component that retrieves appropriate values from the client.
 
 ### Interactivity
