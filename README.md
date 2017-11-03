@@ -8,7 +8,7 @@ A proof-of-concept of an interactive augmented reality building performance visu
 ## Installation
 Download the project from GitHub or Unity Collaborate and select the scene
 
-> ZeroHouseMqtt.Update06
+`ZeroHouseMqtt.Update06`
 
 and build for the Hololens (UWP device) and deploy from Visual Studio.
 
