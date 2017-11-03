@@ -45,7 +45,7 @@ The MQTT connection allows for real-time broadcasting of external sensor data in
 Connection to MQTT is accomplished in the `MQTT_client` GameObject and cooresponding script component. This script containes listeners for incoming data. Each sensor (placed within the `DHT` GameObject container) uses a `Sensor` prefab, with an `MQTT_sensor` script component that retrieves appropriate values from the client.
 
 ### Interactivity
-A proof-of-concept level of interactivity is accomplished by transforming standard sliders, and hiding their cooresponding mesh renderers.
+A proof-of-concept level of interactivity is accomplished by transforming standard sliders, and hiding their cooresponding mesh renderers. The project reuses GUI and interaction assets from the [Microsoft Mixed Reality Toolkit for Unity](https://github.com/Microsoft/MixedRealityToolkit-Unity)
 
 ## Credits
 Main design and development team: [Yuan Gao](http://www.yuan-gao.com), [Brian Ho](http:/www.ho-brian.com), [Jiho Song](http:/www.jiohsong.com)
