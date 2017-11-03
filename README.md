@@ -48,6 +48,6 @@ Connection to MQTT is accomplished in the `MQTT_client` GameObject and coorespon
 A proof-of-concept level of interactivity is accomplished by transforming standard sliders, and hiding their cooresponding mesh renderers. The project reuses GUI and interaction assets from the [Microsoft Mixed Reality Toolkit for Unity](https://github.com/Microsoft/MixedRealityToolkit-Unity)
 
 ## Credits
-Main design and development team: [Yuan Gao](http://www.yuan-gao.com), [Brian Ho](http:/www.ho-brian.com), [Jiho Song](http:/www.jiohsong.com).
+Main design and development team: [Yuan Gao](http://www.yuan-gao.com), [Brian Ho](http:/www.ho-brian.com), [Jiho Song](http:/www.jihosong.com).
 
 Project led by Stephen M Ervin, in partnership with the Harvard CGBC directed by Ali Malkwai.
