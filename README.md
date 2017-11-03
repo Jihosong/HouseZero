@@ -6,7 +6,12 @@ A proof-of-concept of an interactive augmented reality building performance visu
 
 
 ## Installation
-Download the project from GitHub or Unity Collaborate and select the scene `ZeroHouseMqtt.Update06` and build for the Hololens (UWP device) and deploy from Visual Studio.
+Download the project from GitHub or Unity Collaborate, and select the scene `ZeroHouseMqtt.Update06`. Build for the Hololens (UWP device) and deploy from Visual Studio.
+
+## How-To
+The main visualization displays the proposed building for the Havard CGBC. There is also an associated panel, which controls the visualization.
+
+### Control Panel
 
 
 ## Features
