@@ -14,7 +14,7 @@ Note that the project assumes a connection to a REST API server with appropriate
 The main visualization displays the proposed building for the Havard CGBC, with some basic interactivity and visuzalition overlays. There is also an associated control panel, to toggle on or off specific aspects of the visualization. At start, the building is placed onto the nearest detected horizontal plane.
 
 ### Control Panel
-- **Console** - Displays the status of connection to the REST API with CFD data, and MQTT server with sensor data.
+- **Console** - Displays the status of connection to the REST API with CFD data, and MQTT broker service with sensor data.
 - **Air Flow** - toggles a simple animated particle system, showing air circulation through the house.
 - **Vector Field** - toggles an animated CFD display, based on the latest model on the server.
 - **Uniform Vector** - toggles a static CFD display with normalized vectors.
