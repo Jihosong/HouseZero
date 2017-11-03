@@ -48,6 +48,6 @@ Connection to MQTT is accomplished in the `MQTT_client` GameObject and coorespon
 A proof-of-concept level of interactivity is accomplished by transforming standard sliders, and hiding their cooresponding mesh renderers.
 
 ## Credits
-[Yuan Gao](yuan-gao.com), [Brian Ho](www.ho-brian.com), [Jiho Song](www.jiohsong.com)
+[Yuan Gao](www.yuan-gao.com), [Brian Ho](www.ho-brian.com), [Jiho Song](www.jiohsong.com)
 
 with Stephen M Ervin, Assistant Dean for Information Technology, Director of Computer Resources, and lecturer in the Department of Landscape Architecture at Harvard GSD.
