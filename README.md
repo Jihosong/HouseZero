@@ -2,7 +2,7 @@
 ### Building Performance and CFD Simulation Interface
 Unity 2017.1.0f3 (64-bit)
 
-A proof-of-concept of an interactive augmented reality building performance visualization interface, developed for the [Harvard Center for Green Buildings and Cities](http://harvardcgbc.org/) in summer 2017. Built in Unity for the Hololens project is also synced to Unity Collaborate.
+A proof-of-concept of an interactive augmented reality building performance visualization interface, developed for the [Harvard Center for Green Buildings and Cities](http://harvardcgbc.org/) in summer 2017. Built in Unity for the Hololens. Project is also synced to Unity Collaborate.
 
 
 ## Installation
