@@ -48,6 +48,6 @@ Connection to MQTT is accomplished in the `MQTT_client` GameObject and coorespon
 A proof-of-concept level of interactivity is accomplished by transforming standard sliders, and hiding their cooresponding mesh renderers.
 
 ## Credits
-Main developers are: [Yuan Gao](http://www.yuan-gao.com), [Brian Ho](http:/www.ho-brian.com), [Jiho Song](http:/www.jiohsong.com)
+Main design and development team: [Yuan Gao](http://www.yuan-gao.com), [Brian Ho](http:/www.ho-brian.com), [Jiho Song](http:/www.jiohsong.com)
 
-Project lead by Stephen M Ervin, Assistant Dean for Information Technology, Director of Computer Resources, and lecturer in the Department of Landscape Architecture at Harvard GSD, in partnership with the Harvard CGBC, led by Ali Malkwai.
+Project led by Stephen M Ervin, in partnership with the Harvard CGBC directed by Ali Malkwai.
