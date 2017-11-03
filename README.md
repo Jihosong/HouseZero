@@ -27,7 +27,7 @@ The main visualization displays the proposed building for the Havard CGBC, with 
 - **Scale** - target and drag the top of the house to scale.
 - **Sensors** - target and click a sensor (represented as a red sphere) to display real-time temperature and humidity data.
 - **CFD section** - target and drag the CFD section to move it through the building.
-- **Move house** - target and drag the "Tap to Move" panel.
+- **Move house** - target and drag the "Tap to Move" panel, with spatial mapping.
 
 ## Features
 
