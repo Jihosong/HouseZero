@@ -49,4 +49,5 @@ A proof-of-concept level of interactivity is accomplished by transforming standa
 
 ## Credits
 **Developers** [Yuan Gao](yuan-gao.com), [Brian Ho](www.ho-brian.com), [Jiho Song](www.jiohsong.com)
+
 with Stephen M Ervin, Assistant Dean for Information Technology, Director of Computer Resources, and lecturer in the Department of Landscape Architecture at Harvard GSD.
