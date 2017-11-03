@@ -12,8 +12,9 @@ Download the project from GitHub or Unity Collaborate, and select the scene `Zer
 The main visualization displays the proposed building for the Havard CGBC. There is also an associated panel, which controls the visualization.
 
 ### Control Panel
-- **Air Flow** - toggles a simple animated particle system, showing air circulation through the house.
-- **Vector Field** - toggles an animated CFD display, based on the latest model on the server.
+**Air Flow** - toggles a simple animated particle system, showing air circulation through the house.
+
+**Vector Field** - toggles an animated CFD display, based on the latest model on the server.
 
 **Uniform Vector** - toggles a static CFD display with normalized vectors.
 
@@ -23,12 +24,14 @@ The main visualization displays the proposed building for the Havard CGBC. There
 
 **House Section** - toggles a fixed section of the house.
 
-**Auto Rotation On/Off** - toggles the rotation of the house.
+**Auto Rotation** - toggles the rotation of the house.
 
-### House
-Target and drag the base of the house to rotate. Target and drag the top of the house to scale. House
 
 ## Features
+
+### Spatial Maaping 
+Spatial mapping provides a holographic representation of physical surfaces in the environment around the HoloLens.
+The project model is interactable with the real-world surfaces by tapping the center of the model.
 
 ### CFD
 
