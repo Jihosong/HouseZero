@@ -29,7 +29,7 @@ The main visualization displays the proposed building for the Havard CGBC. There
 
 ## Features
 
-### Spatial Maaping 
+### Spatial Mapping/Interaction 
 Spatial mapping provides a holographic representation of physical surfaces in the environment around the HoloLens.
 The project model is interactable with the real-world surfaces by tapping the center of the model.
 
