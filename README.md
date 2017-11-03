@@ -2,13 +2,13 @@
 ### Building Performance and CFD Simulation Interface
 Unity 2017.1.0f3 (64-bit)
 
-A proof-of-concept of an interactive augmented reality building performance visualization interface, developed for the [Harvard Center for Green Buildings and Cities](http://harvardcgbc.org/) in summer 2017. Built in Unity for the Hololensl project is also synced to Unity Collaborate.
+A proof-of-concept of an interactive augmented reality building performance visualization interface, developed for the [Harvard Center for Green Buildings and Cities](http://harvardcgbc.org/) in summer 2017. Built in Unity for the Hololens project is also synced to Unity Collaborate.
 
 
 ## Installation
 Download the project from GitHub or Unity Collaborate, and select the scene `ZeroHouseMqtt.Update06`. Build for the Hololens (UWP device) and deploy from Visual Studio.
 
-Note that the project assumes a connection to a REST API serve with appropriate CFD data, as well as an [MQTT] (http://mqtt.org/) broker service for sensor data.
+Note that the project assumes a connection to a REST API serve with appropriate CFD data, as well as an [MQTT](http://mqtt.org/) broker service for sensor data.
 
 ## Usage
 The main visualization displays the proposed building for the Havard CGBC, with some basic interactivity and visuzalition overlays. There is also an associated control panel, to toggle on or off specific aspects of the visualization.
