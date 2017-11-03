@@ -12,8 +12,7 @@ Download the project from GitHub or Unity Collaborate, and select the scene `Zer
 The main visualization displays the proposed building for the Havard CGBC. There is also an associated panel, which controls the visualization.
 
 ### Control Panel
-#### Airflow
-Shows
+**Airflow** Toggles a simple animated particle system, showing air circulation through the house.
 
 ## Features
 
