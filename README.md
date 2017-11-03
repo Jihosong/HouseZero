@@ -21,11 +21,11 @@ The main visualization displays the proposed building for the Havard CGBC, with 
 - **Auto Rotation On/Off** - toggles the rotation of the house.
 
 ### House
-- **Rotate** Target and drag the base of the house to rotate.
-- **Scale** Target and drag the top of the house to scale.
-- **Sensors** Target and click a sensor (represented as a red sphere) to display real-time temperature and humidity data.
-- **CFD section** Target and drag the CFD section to move it through the building.
-- **Move** Target and drag the model.
+- **Rotate** - target and drag the base of the house to rotate.
+- **Scale** - target and drag the top of the house to scale.
+- **Sensors** - target and click a sensor (represented as a red sphere) to display real-time temperature and humidity data.
+- **CFD section** - target and drag the CFD section to move it through the building.
+- **Move** - target and drag the model.
 
 ## Features
 
