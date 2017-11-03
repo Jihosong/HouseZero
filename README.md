@@ -10,7 +10,7 @@ Download the project from GitHub or Unity Collaborate, and select the scene `Zer
 
 Note that the project assumes a connection to a REST API serve with appropriate CFD data, as well as an MQTT broker service for sensor data.
 
-## How-To
+## Usage
 The main visualization displays the proposed building for the Havard CGBC, with some basic interactivity. There is also an associated panel, which controls specific aspects of the visualization.
 
 ### Control Panel
