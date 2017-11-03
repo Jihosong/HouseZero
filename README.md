@@ -12,6 +12,7 @@ Download the project from GitHub or Unity Collaborate, and select the scene `Zer
 The main visualization displays the proposed building for the Havard CGBC, with some basic interactivity. There is also an associated panel, which controls specific aspects of the visualization.
 
 ### Control Panel
+- **Console** - Displays the status of connection to the REST API with CFD data, and MQTT server with sensor data.
 - **Air Flow** - toggles a simple animated particle system, showing air circulation through the house.
 - **Vector Field** - toggles an animated CFD display, based on the latest model on the server.
 - **Uniform Vector** - toggles a static CFD display with normalized vectors.
