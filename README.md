@@ -9,29 +9,25 @@ A proof-of-concept of an interactive augmented reality building performance visu
 Download the project from GitHub or Unity Collaborate, and select the scene `ZeroHouseMqtt.Update06`. Build for the Hololens (UWP device) and deploy from Visual Studio.
 
 ## How-To
-The main visualization displays the proposed building for the Havard CGBC. There is also an associated panel, which controls the visualization.
+The main visualization displays the proposed building for the Havard CGBC, with some basic interactivity. There is also an associated panel, which controls specific aspects of the visualization.
 
 ### Control Panel
-**Air Flow** - toggles a simple animated particle system, showing air circulation through the house.
+- **Air Flow** - toggles a simple animated particle system, showing air circulation through the house.
+- **Vector Field** - toggles an animated CFD display, based on the latest model on the server.
+- **Uniform Vector** - toggles a static CFD display with normalized vectors.
+- **Color Gradient** - toggles a static CFD display with a shaded visualizaiton.
+- **CFD Section** - toggles an interactive section cut of the CFD display.
+- **House Section** - toggles a fixed section of the house.
+- **Auto Rotation On/Off** - toggles the rotation of the house.
 
-**Vector Field** - toggles an animated CFD display, based on the latest model on the server.
-
-**Uniform Vector** - toggles a static CFD display with normalized vectors.
-
-**Color Gradient** - toggles a static CFD display with a shaded visualizaiton.
-
-**CFD Section** - toggles an interactive section cut of the CFD display.
-
-**House Section** - toggles a fixed section of the house.
-
-**Auto Rotation** - toggles the rotation of the house.
-
+### House
+- **Rotate** Target and drag the base of the house to rotate.
+- **Scale** Target and drag the top of the house to scale.
+- **Sensors** Target and click a sensor (represented as a red sphere) to display real-time temperature and humidity data.
+- **CFD section** Target and drag the CFD section to move it through the building.
+- **Move** Target and drag the model.
 
 ## Features
-
-### Spatial Mapping/Interaction 
-Spatial mapping provides a holographic representation of physical surfaces in the environment around the HoloLens.
-The project model is interactable with the real-world surfaces by tapping the center of the model.
 
 ### CFD
 
