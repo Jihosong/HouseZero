@@ -12,7 +12,14 @@ Download the project from GitHub or Unity Collaborate, and select the scene `Zer
 The main visualization displays the proposed building for the Havard CGBC. There is also an associated panel, which controls the visualization.
 
 ### Control Panel
-**Airflow** - toggles a simple animated particle system, showing air circulation through the house.
+**Air Flow** - toggles a simple animated particle system, showing air circulation through the house.
+**Vector Field** - toggles an animated CFD display, based on the latest model on the server.
+**Uniform Vector** - toggles a static CFD display with normalized vectors.
+**Color Gradient** - toggles a static CFD display with a shaded visualizaiton.
+**CFD Section** - toggles an interactive section cut of the CFD display.
+**House Section** - toggles a fixed section of the house.
+**Auto Rotation** - toggles the rotation of the house.
+
 
 ## Features
 
