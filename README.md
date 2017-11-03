@@ -8,8 +8,8 @@ For the [Harvard Center for Green Buildings and Cities](http://harvardcgbc.org/)
 
 ## Features
 
-# CFD
+### CFD
 
-# MQTT
+### MQTT
 
-# Interactivity
+### Interactivity
