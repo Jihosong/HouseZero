@@ -11,9 +11,13 @@ Download the project from GitHub or Unity Collaborate, and select the scene `HZH
 Note that the project utilizes a HTTP connection to receive CFD data, as well as a connection to a WebSocket server for broadcast sensor data.
 
 ## Usage
-The main visualization features two scales: a full- or room-scale AR overlay designed for the actual HouseZero, and a miniature-scale view which displays the proposed building for the Havard CGBC.
+The main visualization features two scales: a full- or room-scale view designed to overlay information on to the actual HouseZero, and a miniature-scale view which displays the proposed building for the Havard CGBC.
 
-The full- or room-scale AR show
+The full- or room-scale view includes:
+- prototyped sensor values (temperature and humidity)
+- virtual operable windows and associated airflow
+- behind-the-wall visualization of infrastructure
+- an interactive section of the CFD data
 
 With some basic interactivity and visuzalition overlays. There is also an associated control panel, to toggle on or off specific aspects of the visualization. At start, the building is placed onto the nearest detected horizontal plane.
 
