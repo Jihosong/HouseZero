@@ -18,13 +18,12 @@ The full- or room-scale view includes:
 - virtual operable windows and associated airflow
 - behind-the-wall visualization of infrastructure
 - an interactive section of the CFD data
+- annotations for the above
 
-With some basic interactivity and visuzalition overlays. There is also an associated control panel, to toggle on or off specific aspects of the visualization. At start, the building is placed onto the nearest detected horizontal plane.
+The miniature-scale view includes:
+- a model of HouseZero and an associated visualization of CFD data
 
 ### Control Panel
-TBD
-
-### House
 TBD
 
 ## Contributing
