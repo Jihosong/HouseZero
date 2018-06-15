@@ -15,16 +15,14 @@ The main visualization features two scales: a full- or room-scale view designed 
 
 The full- or room-scale view includes:
 - prototyped sensor values (temperature and humidity)
-- virtual operable windows and associated airflow
-- behind-the-wall visualization of infrastructure
+- a virtual operable window and associated airflow
+- a behind-the-wall visualization of infrastructure
 - an interactive section of the CFD data
 - annotations for the above
 
 The miniature-scale view includes:
 - a model of HouseZero and an associated visualization of CFD data
-
-### Control Panel
-TBD
+- a control panel UI
 
 ## Contributing
 All scripting completed in C#. As much as possible, comments have been provided in the code for legibility.
