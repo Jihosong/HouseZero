@@ -5,9 +5,6 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/ZeroHouseMqtt.unity
-    guid: 4b90b53a44c690941a175ef86830b8f1
   - enabled: 1
-    path: Assets/Scenes/ZeroHouseMqtt.Update04.unity
-    guid: 656cd07d2ddeebe4b9d12dba789d8a6b
+    path: Assets/Scenes/HZHololens2018.unity
+    guid: d40a0d315e440674d86edea27990454b

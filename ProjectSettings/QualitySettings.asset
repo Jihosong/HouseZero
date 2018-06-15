@@ -61,7 +61,8 @@ QualitySettings:
     asyncUploadTimeSlice: 2
     asyncUploadBufferSize: 4
     resolutionScalingFixedDPIFactor: 1
-    excludedTargetPlatforms: []
+    excludedTargetPlatforms:
+    - Windows Store Apps
   - serializedVersion: 2
     name: Medium
     pixelLightCount: 1
@@ -89,7 +90,8 @@ QualitySettings:
     asyncUploadTimeSlice: 2
     asyncUploadBufferSize: 4
     resolutionScalingFixedDPIFactor: 1
-    excludedTargetPlatforms: []
+    excludedTargetPlatforms:
+    - Windows Store Apps
   - serializedVersion: 2
     name: High
     pixelLightCount: 2
@@ -117,7 +119,8 @@ QualitySettings:
     asyncUploadTimeSlice: 2
     asyncUploadBufferSize: 4
     resolutionScalingFixedDPIFactor: 1
-    excludedTargetPlatforms: []
+    excludedTargetPlatforms:
+    - Windows Store Apps
   - serializedVersion: 2
     name: Very High
     pixelLightCount: 3
@@ -145,11 +148,12 @@ QualitySettings:
     asyncUploadTimeSlice: 2
     asyncUploadBufferSize: 4
     resolutionScalingFixedDPIFactor: 1
-    excludedTargetPlatforms: []
+    excludedTargetPlatforms:
+    - Windows Store Apps
   - serializedVersion: 2
     name: Ultra
     pixelLightCount: 4
-    shadows: 2
+    shadows: 0
     shadowResolution: 2
     shadowProjection: 1
     shadowCascades: 4
@@ -173,7 +177,8 @@ QualitySettings:
     asyncUploadTimeSlice: 2
     asyncUploadBufferSize: 4
     resolutionScalingFixedDPIFactor: 1
-    excludedTargetPlatforms: []
+    excludedTargetPlatforms:
+    - Windows Store Apps
   m_PerPlatformDefaultQuality:
     Android: 2
     Nintendo 3DS: 5
@@ -181,10 +186,8 @@ QualitySettings:
     PS4: 5
     PSM: 5
     PSP2: 2
-    Samsung TV: 2
     Standalone: 5
     Tizen: 2
-    Web: 5
     WebGL: 3
     WiiU: 5
     Windows Store Apps: 0

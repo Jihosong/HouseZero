@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - humidity
+  - pressure
+  - airVelo
+  - allSensors
+  - outTemp
+  - sys
+  - adminOnlyUI
   layers:
   - Default
   - TransparentFX

@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 7ded4f5f76ce4e84a8b1a4a2bc19df3b
+timeCreated: 1522645394
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Atlas Grotesk
+  fontNames:
+  - Atlas Grotesk
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4fd45df03c413cb4fa8ef40827672db6, type: 3}
+  - {fileID: 12800000, guid: 042d3661f3e90ee4e944e51ef42edb06, type: 3}
+  - {fileID: 12800000, guid: 081bbb5704273e948a1414525c3d5021, type: 3}
+  - {fileID: 12800000, guid: 42f3c7f7b3d72ea4d873b804f3558239, type: 3}
+  - {fileID: 12800000, guid: 5baffeecb18cf64428ba4cb84beeeeff, type: 3}
+  - {fileID: 12800000, guid: 58ad8edd6fc51e64d8bf668f1cea616a, type: 3}
+  - {fileID: 12800000, guid: 2a7bd8ce27575614fbdef7046b4765aa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
