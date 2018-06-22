@@ -1,0 +1,8 @@
+windows server:
+visual c++
+python 2.7
+node 6.2.0
+npm install -g node-gyp
+npm install websocket.io
+
+
